@@ -23,7 +23,7 @@ public class MoveMove : MonoBehaviour {
 
 		//new positions within the grid: all 9 grid positions
 
-		positions.Add (new Vector3(-4, (float)-4.1,0)); //C3's x-pos, D1's y-pos
+		//positions.Add (new Vector3(-4, (float)-4.1,0)); //C3's x-pos, D1's y-pos
 		//etc.
 
 	}

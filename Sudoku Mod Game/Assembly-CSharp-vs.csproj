@@ -46,8 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CountCarry.cs" />
      <Compile Include="Assets\Scripts\MoveMove.cs" />
-     <Compile Include="Assets\SudokuBoard.cs" />
+     <Compile Include="Assets\Scripts\NumberGeneration.cs" />
+     <Compile Include="Assets\Scripts\SudokuBoard.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
